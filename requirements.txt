@@ -2,3 +2,4 @@ streamlit
 transformers
 mtranslate
 TensorFlow 2.0
+tf-keras
