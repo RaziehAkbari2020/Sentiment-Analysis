@@ -3,4 +3,4 @@ transformers
 mtranslate
 TensorFlow
 tf-keras
---upgrade pip
+pip==24.0
