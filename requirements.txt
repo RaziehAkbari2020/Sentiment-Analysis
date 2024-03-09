@@ -1,6 +1,6 @@
 streamlit
 transformers
 mtranslate
-TensorFlow 2.0
+TensorFlow
 tf-keras
 --upgrade pip
